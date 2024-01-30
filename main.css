@@ -48,6 +48,7 @@ header img{
 
 /* rodape */
 footer{
+    position: relative;
     bottom: 0;
     width: 100%;
     background-color: rgb(30, 177, 177);
